@@ -1,0 +1,303 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#theme/别人-朋友-严肃",
+      "color": {
+        "a": 1,
+        "rgb": 12596566
+      }
+    },
+    {
+      "query": "tag:#theme/善良-社会-辫子",
+      "color": {
+        "a": 1,
+        "rgb": 12030516
+      }
+    },
+    {
+      "query": "tag:#theme/中国-美国-国家",
+      "color": {
+        "a": 1,
+        "rgb": 3171765
+      }
+    },
+    {
+      "query": "tag:#theme/文笔-抑郁症-焦虑",
+      "color": {
+        "a": 1,
+        "rgb": 13586268
+      }
+    },
+    {
+      "query": "tag:#theme/学习-坚持-天赋",
+      "color": {
+        "a": 1,
+        "rgb": 13351240
+      }
+    },
+    {
+      "query": "tag:#theme/社会-政治-世俗化",
+      "color": {
+        "a": 1,
+        "rgb": 4351693
+      }
+    },
+    {
+      "query": "tag:#theme/为何-独立思考-原理",
+      "color": {
+        "a": 1,
+        "rgb": 13948008
+      }
+    },
+    {
+      "query": "tag:#theme/建筑-长江-水银",
+      "color": {
+        "a": 1,
+        "rgb": 9648306
+      }
+    },
+    {
+      "query": "tag:#theme/孩子-父母-家长",
+      "color": {
+        "a": 1,
+        "rgb": 14185327
+      }
+    },
+    {
+      "query": "tag:#theme/男朋友-分手-女朋友",
+      "color": {
+        "a": 1,
+        "rgb": 10502188
+      }
+    },
+    {
+      "query": "tag:#theme/看待-河南-士兵",
+      "color": {
+        "a": 1,
+        "rgb": 6451413
+      }
+    },
+    {
+      "query": "tag:#theme/信仰-注定-大师",
+      "color": {
+        "a": 1,
+        "rgb": 9017131
+      }
+    },
+    {
+      "query": "tag:#theme/理性-重要-野心",
+      "color": {
+        "a": 1,
+        "rgb": 12078535
+      }
+    },
+    {
+      "query": "tag:#theme/评价-电影-奥运会",
+      "color": {
+        "a": 1,
+        "rgb": 2697365
+      }
+    },
+    {
+      "query": "tag:#theme/看待-事件-性骚扰",
+      "color": {
+        "a": 1,
+        "rgb": 9470686
+      }
+    },
+    {
+      "query": "tag:#theme/怎样-沟通-深度",
+      "color": {
+        "a": 1,
+        "rgb": 8286823
+      }
+    },
+    {
+      "query": "tag:#theme/制造业-未来-中国",
+      "color": {
+        "a": 1,
+        "rgb": 11969254
+      }
+    },
+    {
+      "query": "tag:#theme/较真-出钱-出力",
+      "color": {
+        "a": 1,
+        "rgb": 14656907
+      }
+    },
+    {
+      "query": "tag:#theme/领导-下属-安排",
+      "color": {
+        "a": 1,
+        "rgb": 3710829
+      }
+    },
+    {
+      "query": "tag:#theme/房价-值得-埃及",
+      "color": {
+        "a": 1,
+        "rgb": 9998209
+      }
+    },
+    {
+      "query": "tag:#theme/裁员-影响-带来",
+      "color": {
+        "a": 1,
+        "rgb": 4373907
+      }
+    },
+    {
+      "query": "tag:#theme/女性-男性-男人",
+      "color": {
+        "a": 1,
+        "rgb": 8408355
+      }
+    },
+    {
+      "query": "tag:#theme/喜欢-犯人-感谢",
+      "color": {
+        "a": 1,
+        "rgb": 13869919
+      }
+    },
+    {
+      "query": "tag:#theme/动物-人类-进化",
+      "color": {
+        "a": 1,
+        "rgb": 11512477
+      }
+    },
+    {
+      "query": "tag:#theme/我该-怀孕-男朋友",
+      "color": {
+        "a": 1,
+        "rgb": 13280319
+      }
+    },
+    {
+      "query": "tag:#theme/自由-道德-反驳",
+      "color": {
+        "a": 1,
+        "rgb": 13032840
+      }
+    },
+    {
+      "query": "tag:#theme/学生-老师-学校",
+      "color": {
+        "a": 1,
+        "rgb": 5535522
+      }
+    },
+    {
+      "query": "tag:#theme/艺术-绘画-美术",
+      "color": {
+        "a": 1,
+        "rgb": 13659343
+      }
+    },
+    {
+      "query": "tag:#theme/公司-员工-企业",
+      "color": {
+        "a": 1,
+        "rgb": 6342578
+      }
+    },
+    {
+      "query": "tag:#theme/俄罗斯-乌克兰-连斯基",
+      "color": {
+        "a": 1,
+        "rgb": 4464501
+      }
+    },
+    {
+      "query": "tag:#theme/痛苦-怜悯-原谅",
+      "color": {
+        "a": 1,
+        "rgb": 9359448
+      }
+    },
+    {
+      "query": "tag:#theme/日本-中国-正式",
+      "color": {
+        "a": 1,
+        "rgb": 10113745
+      }
+    },
+    {
+      "query": "tag:#theme/世界-耗材-知行合一",
+      "color": {
+        "a": 1,
+        "rgb": 9318581
+      }
+    },
+    {
+      "query": "tag:#theme/推荐-产品-知乎",
+      "color": {
+        "a": 1,
+        "rgb": 2982011
+      }
+    },
+    {
+      "query": "tag:#theme/关注-信息-值得",
+      "color": {
+        "a": 1,
+        "rgb": 6447184
+      }
+    },
+    {
+      "query": "tag:#theme/普通人-作家-扫兴",
+      "color": {
+        "a": 1,
+        "rgb": 12627253
+      }
+    },
+    {
+      "query": "tag:#theme/此事-看待-回应",
+      "color": {
+        "a": 1,
+        "rgb": 12961465
+      }
+    },
+    {
+      "query": "tag:#theme/活成-紧张-机器人",
+      "color": {
+        "a": 1,
+        "rgb": 12010189
+      }
+    },
+    {
+      "query": "tag:#theme/知识分子-弱点",
+      "color": {
+        "a": 1,
+        "rgb": 5001024
+      }
+    },
+    {
+      "query": "tag:#theme/不满-下属",
+      "color": {
+        "a": 1,
+        "rgb": 8375506
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.19984496214947856,
+  "close": true
+}

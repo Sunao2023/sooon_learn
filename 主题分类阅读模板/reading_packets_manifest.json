@@ -1,0 +1,2468 @@
+[
+  {
+    "index": 1,
+    "name": "公共回应与日常判断 · 第 1 组",
+    "file": "001-公共回应与日常判断-01-C29.md",
+    "count": 24,
+    "long": 1,
+    "short": 23,
+    "weight": 30,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      29
+    ],
+    "start": "2021-06-08",
+    "end": "2024-07-15"
+  },
+  {
+    "index": 2,
+    "name": "世界观与知行落差 · 第 1 组",
+    "file": "002-世界观与知行落差-01-C23.md",
+    "count": 34,
+    "long": 0,
+    "short": 34,
+    "weight": 34,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      23
+    ],
+    "start": "2020-07-17",
+    "end": "2025-06-03"
+  },
+  {
+    "index": 3,
+    "name": "自处、倦怠与角色压力 · 联合阅读包",
+    "file": "003-联合阅读包-自处-倦怠与角色压力-C26,19,38.md",
+    "count": 17,
+    "long": 3,
+    "short": 14,
+    "weight": 35,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      26,
+      19,
+      38
+    ],
+    "start": "2019-08-20",
+    "end": "2025-12-20"
+  },
+  {
+    "index": 4,
+    "name": "普通人的体面与表达 · 第 1 组",
+    "file": "004-普通人的体面与表达-01-C12.md",
+    "count": 24,
+    "long": 2,
+    "short": 22,
+    "weight": 36,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      12
+    ],
+    "start": "2020-09-14",
+    "end": "2026-03-25"
+  },
+  {
+    "index": 5,
+    "name": "产品消费与实用选择 · 第 1 组",
+    "file": "005-产品消费与实用选择-01-C25.md",
+    "count": 32,
+    "long": 1,
+    "short": 31,
+    "weight": 38,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      25
+    ],
+    "start": "2018-11-12",
+    "end": "2026-04-10"
+  },
+  {
+    "index": 6,
+    "name": "社会见闻与现实判断 · 第 1 组",
+    "file": "006-社会见闻与现实判断-01-C5.md",
+    "count": 40,
+    "long": 0,
+    "short": 40,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      5
+    ],
+    "start": "2019-03-07",
+    "end": "2021-12-13"
+  },
+  {
+    "index": 7,
+    "name": "社会见闻与现实判断 · 第 2 组",
+    "file": "007-社会见闻与现实判断-02-C5.md",
+    "count": 40,
+    "long": 0,
+    "short": 40,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      5
+    ],
+    "start": "2022-03-23",
+    "end": "2024-01-28"
+  },
+  {
+    "index": 8,
+    "name": "社会见闻与现实判断 · 第 3 组",
+    "file": "008-社会见闻与现实判断-03-C5.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      5
+    ],
+    "start": "2024-02-03",
+    "end": "2025-08-30"
+  },
+  {
+    "index": 9,
+    "name": "生育抉择与亲密关系 · 第 1 组",
+    "file": "009-生育抉择与亲密关系-01-C21.md",
+    "count": 40,
+    "long": 0,
+    "short": 40,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      21
+    ],
+    "start": "2019-11-30",
+    "end": "2024-03-16"
+  },
+  {
+    "index": 10,
+    "name": "生育抉择与亲密关系 · 第 2 组",
+    "file": "010-生育抉择与亲密关系-02-C21.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      21
+    ],
+    "start": "2024-03-22",
+    "end": "2025-12-16"
+  },
+  {
+    "index": 11,
+    "name": "生育抉择与亲密关系 · 第 3 组",
+    "file": "011-生育抉择与亲密关系-03-C21.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      21
+    ],
+    "start": "2019-11-30",
+    "end": "2026-03-20"
+  },
+  {
+    "index": 12,
+    "name": "深度沟通与关系协商 · 第 1 组",
+    "file": "012-深度沟通与关系协商-01-C35.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      35
+    ],
+    "start": "2019-04-30",
+    "end": "2022-10-01"
+  },
+  {
+    "index": 13,
+    "name": "深度沟通与关系协商 · 第 2 组",
+    "file": "013-深度沟通与关系协商-02-C35.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      35
+    ],
+    "start": "2022-10-17",
+    "end": "2024-11-05"
+  },
+  {
+    "index": 14,
+    "name": "深度沟通与关系协商 · 第 3 组",
+    "file": "014-深度沟通与关系协商-03-C35.md",
+    "count": 14,
+    "long": 5,
+    "short": 9,
+    "weight": 44,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      35
+    ],
+    "start": "2024-11-06",
+    "end": "2026-04-08"
+  },
+  {
+    "index": 15,
+    "name": "深度沟通与关系协商 · 第 4 组",
+    "file": "015-深度沟通与关系协商-04-C35.md",
+    "count": 30,
+    "long": 1,
+    "short": 29,
+    "weight": 36,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      35
+    ],
+    "start": "2019-04-30",
+    "end": "2026-04-21"
+  },
+  {
+    "index": 16,
+    "name": "东亚比较与国家观感 · 第 1 组",
+    "file": "016-东亚比较与国家观感-01-C0.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      0
+    ],
+    "start": "2020-03-14",
+    "end": "2024-01-24"
+  },
+  {
+    "index": 17,
+    "name": "东亚比较与国家观感 · 第 2 组",
+    "file": "017-东亚比较与国家观感-02-C0.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      0
+    ],
+    "start": "2020-03-14",
+    "end": "2026-03-03"
+  },
+  {
+    "index": 18,
+    "name": "善良、分寸与社会感受 · 第 1 组",
+    "file": "018-善良-分寸与社会感受-01-C6.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      6
+    ],
+    "start": "2018-08-27",
+    "end": "2020-12-11"
+  },
+  {
+    "index": 19,
+    "name": "善良、分寸与社会感受 · 第 2 组",
+    "file": "019-善良-分寸与社会感受-02-C6.md",
+    "count": 25,
+    "long": 3,
+    "short": 22,
+    "weight": 43,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      6
+    ],
+    "start": "2020-12-16",
+    "end": "2021-05-19"
+  },
+  {
+    "index": 20,
+    "name": "善良、分寸与社会感受 · 第 3 组",
+    "file": "020-善良-分寸与社会感受-03-C6.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      6
+    ],
+    "start": "2021-06-04",
+    "end": "2022-06-20"
+  },
+  {
+    "index": 21,
+    "name": "善良、分寸与社会感受 · 第 4 组",
+    "file": "021-善良-分寸与社会感受-04-C6.md",
+    "count": 40,
+    "long": 0,
+    "short": 40,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      6
+    ],
+    "start": "2022-06-22",
+    "end": "2024-01-05"
+  },
+  {
+    "index": 22,
+    "name": "善良、分寸与社会感受 · 第 5 组",
+    "file": "022-善良-分寸与社会感受-05-C6.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      6
+    ],
+    "start": "2024-01-11",
+    "end": "2025-03-16"
+  },
+  {
+    "index": 23,
+    "name": "善良、分寸与社会感受 · 第 6 组",
+    "file": "023-善良-分寸与社会感受-06-C6.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      6
+    ],
+    "start": "2018-08-27",
+    "end": "2026-04-21"
+  },
+  {
+    "index": 24,
+    "name": "艺术欣赏与创作判断 · 第 1 组",
+    "file": "024-艺术欣赏与创作判断-01-C14.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      14
+    ],
+    "start": "2018-11-09",
+    "end": "2022-07-28"
+  },
+  {
+    "index": 25,
+    "name": "艺术欣赏与创作判断 · 第 2 组",
+    "file": "025-艺术欣赏与创作判断-02-C14.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      14
+    ],
+    "start": "2022-08-06",
+    "end": "2024-04-13"
+  },
+  {
+    "index": 26,
+    "name": "艺术欣赏与创作判断 · 第 3 组",
+    "file": "026-艺术欣赏与创作判断-03-C14.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      14
+    ],
+    "start": "2018-11-09",
+    "end": "2026-04-23"
+  },
+  {
+    "index": 27,
+    "name": "喜欢、表达与情感细节 · 第 1 组",
+    "file": "027-喜欢-表达与情感细节-01-C27.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      27
+    ],
+    "start": "2019-01-19",
+    "end": "2022-12-17"
+  },
+  {
+    "index": 28,
+    "name": "喜欢、表达与情感细节 · 第 2 组",
+    "file": "028-喜欢-表达与情感细节-02-C27.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      27
+    ],
+    "start": "2023-01-30",
+    "end": "2025-12-28"
+  },
+  {
+    "index": 29,
+    "name": "喜欢、表达与情感细节 · 第 3 组",
+    "file": "029-喜欢-表达与情感细节-03-C27.md",
+    "count": 20,
+    "long": 2,
+    "short": 18,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      27
+    ],
+    "start": "2019-01-19",
+    "end": "2026-04-23"
+  },
+  {
+    "index": 30,
+    "name": "人类、动物与进化直觉 · 第 1 组",
+    "file": "030-人类-动物与进化直觉-01-C37.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      37
+    ],
+    "start": "2018-06-11",
+    "end": "2020-07-11"
+  },
+  {
+    "index": 31,
+    "name": "人类、动物与进化直觉 · 第 2 组",
+    "file": "031-人类-动物与进化直觉-02-C37.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      37
+    ],
+    "start": "2020-08-16",
+    "end": "2023-07-07"
+  },
+  {
+    "index": 32,
+    "name": "人类、动物与进化直觉 · 第 3 组",
+    "file": "032-人类-动物与进化直觉-03-C37.md",
+    "count": 20,
+    "long": 2,
+    "short": 18,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      37
+    ],
+    "start": "2018-06-11",
+    "end": "2026-01-31"
+  },
+  {
+    "index": 33,
+    "name": "边界感、付出与人际分寸 · 第 1 组",
+    "file": "033-边界感-付出与人际分寸-01-C34.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      34
+    ],
+    "start": "2018-11-17",
+    "end": "2023-01-17"
+  },
+  {
+    "index": 34,
+    "name": "边界感、付出与人际分寸 · 第 2 组",
+    "file": "034-边界感-付出与人际分寸-02-C34.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      34
+    ],
+    "start": "2023-04-13",
+    "end": "2024-08-10"
+  },
+  {
+    "index": 35,
+    "name": "边界感、付出与人际分寸 · 第 3 组",
+    "file": "035-边界感-付出与人际分寸-03-C34.md",
+    "count": 22,
+    "long": 4,
+    "short": 18,
+    "weight": 46,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      34
+    ],
+    "start": "2024-09-28",
+    "end": "2026-02-27"
+  },
+  {
+    "index": 36,
+    "name": "自由、道德与价值辩驳 · 第 1 组",
+    "file": "036-自由-道德与价值辩驳-01-C18.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      18
+    ],
+    "start": "2018-11-20",
+    "end": "2021-06-20"
+  },
+  {
+    "index": 37,
+    "name": "自由、道德与价值辩驳 · 第 2 组",
+    "file": "037-自由-道德与价值辩驳-02-C18.md",
+    "count": 33,
+    "long": 2,
+    "short": 31,
+    "weight": 45,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      18
+    ],
+    "start": "2021-06-22",
+    "end": "2026-04-17"
+  },
+  {
+    "index": 38,
+    "name": "性别事件与公共裁断 · 第 1 组",
+    "file": "038-性别事件与公共裁断-01-C2.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      2
+    ],
+    "start": "2019-03-17",
+    "end": "2021-11-08"
+  },
+  {
+    "index": 39,
+    "name": "性别事件与公共裁断 · 第 2 组",
+    "file": "039-性别事件与公共裁断-02-C2.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      2
+    ],
+    "start": "2022-04-19",
+    "end": "2022-11-12"
+  },
+  {
+    "index": 40,
+    "name": "性别事件与公共裁断 · 第 3 组",
+    "file": "040-性别事件与公共裁断-03-C2.md",
+    "count": 25,
+    "long": 3,
+    "short": 22,
+    "weight": 43,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      2
+    ],
+    "start": "2022-12-18",
+    "end": "2024-02-15"
+  },
+  {
+    "index": 41,
+    "name": "性别事件与公共裁断 · 第 4 组",
+    "file": "041-性别事件与公共裁断-04-C2.md",
+    "count": 29,
+    "long": 1,
+    "short": 28,
+    "weight": 35,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      2
+    ],
+    "start": "2024-02-22",
+    "end": "2026-04-10"
+  },
+  {
+    "index": 42,
+    "name": "文娱评价与公共舆论 · 第 1 组",
+    "file": "042-文娱评价与公共舆论-01-C31.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      31
+    ],
+    "start": "2019-04-21",
+    "end": "2021-06-26"
+  },
+  {
+    "index": 43,
+    "name": "文娱评价与公共舆论 · 第 2 组",
+    "file": "043-文娱评价与公共舆论-02-C31.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      31
+    ],
+    "start": "2021-07-24",
+    "end": "2024-01-03"
+  },
+  {
+    "index": 44,
+    "name": "文娱评价与公共舆论 · 第 3 组",
+    "file": "044-文娱评价与公共舆论-03-C31.md",
+    "count": 43,
+    "long": 0,
+    "short": 43,
+    "weight": 43,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      31
+    ],
+    "start": "2024-01-06",
+    "end": "2026-04-03"
+  },
+  {
+    "index": 45,
+    "name": "裁员变局与行业冲击 · 第 1 组",
+    "file": "045-裁员变局与行业冲击-01-C10.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      10
+    ],
+    "start": "2019-10-08",
+    "end": "2022-11-29"
+  },
+  {
+    "index": 46,
+    "name": "裁员变局与行业冲击 · 第 2 组",
+    "file": "046-裁员变局与行业冲击-02-C10.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      10
+    ],
+    "start": "2022-12-10",
+    "end": "2023-10-27"
+  },
+  {
+    "index": 47,
+    "name": "裁员变局与行业冲击 · 第 3 组",
+    "file": "047-裁员变局与行业冲击-03-C10.md",
+    "count": 22,
+    "long": 4,
+    "short": 18,
+    "weight": 46,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      10
+    ],
+    "start": "2023-11-04",
+    "end": "2025-05-15"
+  },
+  {
+    "index": 48,
+    "name": "裁员变局与行业冲击 · 第 4 组",
+    "file": "048-裁员变局与行业冲击-04-C10.md",
+    "count": 18,
+    "long": 3,
+    "short": 15,
+    "weight": 36,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      10
+    ],
+    "start": "2019-10-08",
+    "end": "2025-09-26"
+  },
+  {
+    "index": 49,
+    "name": "痛苦、羞耻与自我宽恕 · 第 1 组",
+    "file": "049-痛苦-羞耻与自我宽恕-01-C28.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      28
+    ],
+    "start": "2020-07-16",
+    "end": "2022-12-04"
+  },
+  {
+    "index": 50,
+    "name": "痛苦、羞耻与自我宽恕 · 第 2 组",
+    "file": "050-痛苦-羞耻与自我宽恕-02-C28.md",
+    "count": 23,
+    "long": 1,
+    "short": 22,
+    "weight": 29,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      28
+    ],
+    "start": "2022-12-09",
+    "end": "2026-04-16"
+  },
+  {
+    "index": 51,
+    "name": "学习方法与成长驱动力 · 第 1 组",
+    "file": "051-学习方法与成长驱动力-01-C32.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      32
+    ],
+    "start": "2020-07-17",
+    "end": "2021-06-11"
+  },
+  {
+    "index": 52,
+    "name": "学习方法与成长驱动力 · 第 2 组",
+    "file": "052-学习方法与成长驱动力-02-C32.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      32
+    ],
+    "start": "2021-06-18",
+    "end": "2022-07-12"
+  },
+  {
+    "index": 53,
+    "name": "学习方法与成长驱动力 · 第 3 组",
+    "file": "053-学习方法与成长驱动力-03-C32.md",
+    "count": 34,
+    "long": 2,
+    "short": 32,
+    "weight": 46,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      32
+    ],
+    "start": "2022-07-21",
+    "end": "2023-10-10"
+  },
+  {
+    "index": 54,
+    "name": "学习方法与成长驱动力 · 第 4 组",
+    "file": "054-学习方法与成长驱动力-04-C32.md",
+    "count": 40,
+    "long": 0,
+    "short": 40,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      32
+    ],
+    "start": "2023-10-29",
+    "end": "2024-07-20"
+  },
+  {
+    "index": 55,
+    "name": "学习方法与成长驱动力 · 第 5 组",
+    "file": "055-学习方法与成长驱动力-05-C32.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      32
+    ],
+    "start": "2024-07-31",
+    "end": "2026-03-11"
+  },
+  {
+    "index": 56,
+    "name": "学习方法与成长驱动力 · 第 6 组",
+    "file": "056-学习方法与成长驱动力-06-C32.md",
+    "count": 20,
+    "long": 3,
+    "short": 17,
+    "weight": 38,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      32
+    ],
+    "start": "2020-07-17",
+    "end": "2026-04-19"
+  },
+  {
+    "index": 57,
+    "name": "独立思考与认知方法 · 第 1 组",
+    "file": "057-独立思考与认知方法-01-C11.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      11
+    ],
+    "start": "2018-07-21",
+    "end": "2020-04-10"
+  },
+  {
+    "index": 58,
+    "name": "独立思考与认知方法 · 第 2 组",
+    "file": "058-独立思考与认知方法-02-C11.md",
+    "count": 10,
+    "long": 5,
+    "short": 5,
+    "weight": 40,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      11
+    ],
+    "start": "2020-05-21",
+    "end": "2020-08-03"
+  },
+  {
+    "index": 59,
+    "name": "独立思考与认知方法 · 第 3 组",
+    "file": "059-独立思考与认知方法-03-C11.md",
+    "count": 18,
+    "long": 4,
+    "short": 14,
+    "weight": 42,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      11
+    ],
+    "start": "2020-08-17",
+    "end": "2021-02-18"
+  },
+  {
+    "index": 60,
+    "name": "独立思考与认知方法 · 第 4 组",
+    "file": "060-独立思考与认知方法-04-C11.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      11
+    ],
+    "start": "2021-02-20",
+    "end": "2021-05-08"
+  },
+  {
+    "index": 61,
+    "name": "独立思考与认知方法 · 第 5 组",
+    "file": "061-独立思考与认知方法-05-C11.md",
+    "count": 10,
+    "long": 5,
+    "short": 5,
+    "weight": 40,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      11
+    ],
+    "start": "2021-05-09",
+    "end": "2021-06-18"
+  },
+  {
+    "index": 62,
+    "name": "独立思考与认知方法 · 第 6 组",
+    "file": "062-独立思考与认知方法-06-C11.md",
+    "count": 23,
+    "long": 3,
+    "short": 20,
+    "weight": 41,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      11
+    ],
+    "start": "2021-07-08",
+    "end": "2022-10-22"
+  },
+  {
+    "index": 63,
+    "name": "独立思考与认知方法 · 第 7 组",
+    "file": "063-独立思考与认知方法-07-C11.md",
+    "count": 21,
+    "long": 4,
+    "short": 17,
+    "weight": 45,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      11
+    ],
+    "start": "2022-11-08",
+    "end": "2023-08-20"
+  },
+  {
+    "index": 64,
+    "name": "独立思考与认知方法 · 第 8 组",
+    "file": "064-独立思考与认知方法-08-C11.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      11
+    ],
+    "start": "2023-08-25",
+    "end": "2025-01-14"
+  },
+  {
+    "index": 65,
+    "name": "独立思考与认知方法 · 第 9 组",
+    "file": "065-独立思考与认知方法-09-C11.md",
+    "count": 20,
+    "long": 3,
+    "short": 17,
+    "weight": 38,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      11
+    ],
+    "start": "2018-07-21",
+    "end": "2026-04-23"
+  },
+  {
+    "index": 66,
+    "name": "焦虑、自信与自我建构 · 第 1 组",
+    "file": "066-焦虑-自信与自我建构-01-C30.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      30
+    ],
+    "start": "2018-08-01",
+    "end": "2020-06-26"
+  },
+  {
+    "index": 67,
+    "name": "焦虑、自信与自我建构 · 第 2 组",
+    "file": "067-焦虑-自信与自我建构-02-C30.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      30
+    ],
+    "start": "2020-07-04",
+    "end": "2021-01-07"
+  },
+  {
+    "index": 68,
+    "name": "焦虑、自信与自我建构 · 第 3 组",
+    "file": "068-焦虑-自信与自我建构-03-C30.md",
+    "count": 11,
+    "long": 5,
+    "short": 6,
+    "weight": 41,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      30
+    ],
+    "start": "2021-01-23",
+    "end": "2021-05-24"
+  },
+  {
+    "index": 69,
+    "name": "焦虑、自信与自我建构 · 第 4 组",
+    "file": "069-焦虑-自信与自我建构-04-C30.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      30
+    ],
+    "start": "2021-06-03",
+    "end": "2021-10-13"
+  },
+  {
+    "index": 70,
+    "name": "焦虑、自信与自我建构 · 第 5 组",
+    "file": "070-焦虑-自信与自我建构-05-C30.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      30
+    ],
+    "start": "2021-11-28",
+    "end": "2022-12-19"
+  },
+  {
+    "index": 71,
+    "name": "焦虑、自信与自我建构 · 第 6 组",
+    "file": "071-焦虑-自信与自我建构-06-C30.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      30
+    ],
+    "start": "2022-12-20",
+    "end": "2024-05-20"
+  },
+  {
+    "index": 72,
+    "name": "焦虑、自信与自我建构 · 第 7 组",
+    "file": "072-焦虑-自信与自我建构-07-C30.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      30
+    ],
+    "start": "2024-05-25",
+    "end": "2025-04-24"
+  },
+  {
+    "index": 73,
+    "name": "焦虑、自信与自我建构 · 第 8 组",
+    "file": "073-焦虑-自信与自我建构-08-C30.md",
+    "count": 36,
+    "long": 1,
+    "short": 35,
+    "weight": 42,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      30
+    ],
+    "start": "2025-04-27",
+    "end": "2026-04-21"
+  },
+  {
+    "index": 74,
+    "name": "父母、孩子与家庭教育 · 第 1 组",
+    "file": "074-父母-孩子与家庭教育-01-C24.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      24
+    ],
+    "start": "2018-12-13",
+    "end": "2021-05-22"
+  },
+  {
+    "index": 75,
+    "name": "父母、孩子与家庭教育 · 第 2 组",
+    "file": "075-父母-孩子与家庭教育-02-C24.md",
+    "count": 15,
+    "long": 5,
+    "short": 10,
+    "weight": 45,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      24
+    ],
+    "start": "2021-05-30",
+    "end": "2021-10-06"
+  },
+  {
+    "index": 76,
+    "name": "父母、孩子与家庭教育 · 第 3 组",
+    "file": "076-父母-孩子与家庭教育-03-C24.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      24
+    ],
+    "start": "2021-10-16",
+    "end": "2023-03-09"
+  },
+  {
+    "index": 77,
+    "name": "父母、孩子与家庭教育 · 第 4 组",
+    "file": "077-父母-孩子与家庭教育-04-C24.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      24
+    ],
+    "start": "2023-03-22",
+    "end": "2023-09-25"
+  },
+  {
+    "index": 78,
+    "name": "父母、孩子与家庭教育 · 第 5 组",
+    "file": "078-父母-孩子与家庭教育-05-C24.md",
+    "count": 16,
+    "long": 5,
+    "short": 11,
+    "weight": 46,
+    "start_label": "中段展开",
+    "style": "深度读",
+    "clusters": [
+      24
+    ],
+    "start": "2023-10-24",
+    "end": "2024-05-27"
+  },
+  {
+    "index": 79,
+    "name": "父母、孩子与家庭教育 · 第 6 组",
+    "file": "079-父母-孩子与家庭教育-06-C24.md",
+    "count": 20,
+    "long": 4,
+    "short": 16,
+    "weight": 44,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      24
+    ],
+    "start": "2024-05-29",
+    "end": "2025-02-18"
+  },
+  {
+    "index": 80,
+    "name": "父母、孩子与家庭教育 · 第 7 组",
+    "file": "080-父母-孩子与家庭教育-07-C24.md",
+    "count": 14,
+    "long": 5,
+    "short": 9,
+    "weight": 44,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      24
+    ],
+    "start": "2025-03-04",
+    "end": "2025-12-14"
+  },
+  {
+    "index": 81,
+    "name": "父母、孩子与家庭教育 · 第 8 组",
+    "file": "081-父母-孩子与家庭教育-08-C24.md",
+    "count": 20,
+    "long": 3,
+    "short": 17,
+    "weight": 38,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      24
+    ],
+    "start": "2025-12-17",
+    "end": "2026-04-11"
+  },
+  {
+    "index": 82,
+    "name": "技术想象与工程文明 · 第 1 组",
+    "file": "082-技术想象与工程文明-01-C16.md",
+    "count": 10,
+    "long": 5,
+    "short": 5,
+    "weight": 40,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      16
+    ],
+    "start": "2018-07-22",
+    "end": "2019-03-26"
+  },
+  {
+    "index": 83,
+    "name": "技术想象与工程文明 · 第 2 组",
+    "file": "083-技术想象与工程文明-02-C16.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      16
+    ],
+    "start": "2019-03-30",
+    "end": "2019-07-29"
+  },
+  {
+    "index": 84,
+    "name": "技术想象与工程文明 · 第 3 组",
+    "file": "084-技术想象与工程文明-03-C16.md",
+    "count": 23,
+    "long": 3,
+    "short": 20,
+    "weight": 41,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      16
+    ],
+    "start": "2019-08-23",
+    "end": "2021-05-19"
+  },
+  {
+    "index": 85,
+    "name": "技术想象与工程文明 · 第 4 组",
+    "file": "085-技术想象与工程文明-04-C16.md",
+    "count": 23,
+    "long": 3,
+    "short": 20,
+    "weight": 41,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      16
+    ],
+    "start": "2021-06-01",
+    "end": "2022-11-15"
+  },
+  {
+    "index": 86,
+    "name": "技术想象与工程文明 · 第 5 组",
+    "file": "086-技术想象与工程文明-05-C16.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      16
+    ],
+    "start": "2022-11-26",
+    "end": "2024-06-14"
+  },
+  {
+    "index": 87,
+    "name": "技术想象与工程文明 · 第 6 组",
+    "file": "087-技术想象与工程文明-06-C16.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      16
+    ],
+    "start": "2024-06-16",
+    "end": "2025-12-18"
+  },
+  {
+    "index": 88,
+    "name": "技术想象与工程文明 · 第 7 组",
+    "file": "088-技术想象与工程文明-07-C16.md",
+    "count": 13,
+    "long": 4,
+    "short": 9,
+    "weight": 37,
+    "start_label": "中段展开",
+    "style": "深度读",
+    "clusters": [
+      16
+    ],
+    "start": "2018-07-22",
+    "end": "2026-04-16"
+  },
+  {
+    "index": 89,
+    "name": "房价、资产与现实账本 · 第 1 组",
+    "file": "089-房价-资产与现实账本-01-C8.md",
+    "count": 23,
+    "long": 3,
+    "short": 20,
+    "weight": 41,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      8
+    ],
+    "start": "2018-08-25",
+    "end": "2022-06-26"
+  },
+  {
+    "index": 90,
+    "name": "房价、资产与现实账本 · 第 2 组",
+    "file": "090-房价-资产与现实账本-02-C8.md",
+    "count": 21,
+    "long": 4,
+    "short": 17,
+    "weight": 45,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      8
+    ],
+    "start": "2022-12-07",
+    "end": "2024-03-18"
+  },
+  {
+    "index": 91,
+    "name": "房价、资产与现实账本 · 第 3 组",
+    "file": "091-房价-资产与现实账本-03-C8.md",
+    "count": 22,
+    "long": 2,
+    "short": 20,
+    "weight": 34,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      8
+    ],
+    "start": "2024-04-18",
+    "end": "2026-01-13"
+  },
+  {
+    "index": 92,
+    "name": "朋友相处与关系边界 · 第 1 组",
+    "file": "092-朋友相处与关系边界-01-C3.md",
+    "count": 17,
+    "long": 4,
+    "short": 13,
+    "weight": 41,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2018-12-22",
+    "end": "2020-09-21"
+  },
+  {
+    "index": 93,
+    "name": "朋友相处与关系边界 · 第 2 组",
+    "file": "093-朋友相处与关系边界-02-C3.md",
+    "count": 10,
+    "long": 6,
+    "short": 4,
+    "weight": 46,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      3
+    ],
+    "start": "2020-09-27",
+    "end": "2021-03-02"
+  },
+  {
+    "index": 94,
+    "name": "朋友相处与关系边界 · 第 3 组",
+    "file": "094-朋友相处与关系边界-03-C3.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      3
+    ],
+    "start": "2021-03-14",
+    "end": "2021-05-14"
+  },
+  {
+    "index": 95,
+    "name": "朋友相处与关系边界 · 第 4 组",
+    "file": "095-朋友相处与关系边界-04-C3.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      3
+    ],
+    "start": "2021-05-16",
+    "end": "2021-07-26"
+  },
+  {
+    "index": 96,
+    "name": "朋友相处与关系边界 · 第 5 组",
+    "file": "096-朋友相处与关系边界-05-C3.md",
+    "count": 19,
+    "long": 4,
+    "short": 15,
+    "weight": 43,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2021-08-09",
+    "end": "2022-01-09"
+  },
+  {
+    "index": 97,
+    "name": "朋友相处与关系边界 · 第 6 组",
+    "file": "097-朋友相处与关系边界-06-C3.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2022-02-16",
+    "end": "2022-09-09"
+  },
+  {
+    "index": 98,
+    "name": "朋友相处与关系边界 · 第 7 组",
+    "file": "098-朋友相处与关系边界-07-C3.md",
+    "count": 25,
+    "long": 3,
+    "short": 22,
+    "weight": 43,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2022-09-10",
+    "end": "2023-01-31"
+  },
+  {
+    "index": 99,
+    "name": "朋友相处与关系边界 · 第 8 组",
+    "file": "099-朋友相处与关系边界-08-C3.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2023-02-06",
+    "end": "2023-06-19"
+  },
+  {
+    "index": 100,
+    "name": "朋友相处与关系边界 · 第 9 组",
+    "file": "100-朋友相处与关系边界-09-C3.md",
+    "count": 24,
+    "long": 3,
+    "short": 21,
+    "weight": 42,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2023-06-21",
+    "end": "2023-10-02"
+  },
+  {
+    "index": 101,
+    "name": "朋友相处与关系边界 · 第 10 组",
+    "file": "101-朋友相处与关系边界-10-C3.md",
+    "count": 22,
+    "long": 4,
+    "short": 18,
+    "weight": 46,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2023-10-03",
+    "end": "2024-03-28"
+  },
+  {
+    "index": 102,
+    "name": "朋友相处与关系边界 · 第 11 组",
+    "file": "102-朋友相处与关系边界-11-C3.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2024-03-30",
+    "end": "2024-08-01"
+  },
+  {
+    "index": 103,
+    "name": "朋友相处与关系边界 · 第 12 组",
+    "file": "103-朋友相处与关系边界-12-C3.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2024-08-04",
+    "end": "2025-06-18"
+  },
+  {
+    "index": 104,
+    "name": "朋友相处与关系边界 · 第 13 组",
+    "file": "104-朋友相处与关系边界-13-C3.md",
+    "count": 15,
+    "long": 3,
+    "short": 12,
+    "weight": 33,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      3
+    ],
+    "start": "2025-08-20",
+    "end": "2026-04-18"
+  },
+  {
+    "index": 105,
+    "name": "学校教育与学生处境 · 第 1 组",
+    "file": "105-学校教育与学生处境-01-C9.md",
+    "count": 24,
+    "long": 3,
+    "short": 21,
+    "weight": 42,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      9
+    ],
+    "start": "2018-10-03",
+    "end": "2023-12-14"
+  },
+  {
+    "index": 106,
+    "name": "学校教育与学生处境 · 第 2 组",
+    "file": "106-学校教育与学生处境-02-C9.md",
+    "count": 28,
+    "long": 3,
+    "short": 25,
+    "weight": 46,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      9
+    ],
+    "start": "2024-01-19",
+    "end": "2026-04-14"
+  },
+  {
+    "index": 107,
+    "name": "国际政治与民族认同 · 第 1 组",
+    "file": "107-国际政治与民族认同-01-C15.md",
+    "count": 18,
+    "long": 4,
+    "short": 14,
+    "weight": 42,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2017-09-08",
+    "end": "2020-03-01"
+  },
+  {
+    "index": 108,
+    "name": "国际政治与民族认同 · 第 2 组",
+    "file": "108-国际政治与民族认同-02-C15.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2020-03-03",
+    "end": "2020-08-14"
+  },
+  {
+    "index": 109,
+    "name": "国际政治与民族认同 · 第 3 组",
+    "file": "109-国际政治与民族认同-03-C15.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2020-08-15",
+    "end": "2021-03-22"
+  },
+  {
+    "index": 110,
+    "name": "国际政治与民族认同 · 第 4 组",
+    "file": "110-国际政治与民族认同-04-C15.md",
+    "count": 29,
+    "long": 2,
+    "short": 27,
+    "weight": 41,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2021-04-06",
+    "end": "2022-06-25"
+  },
+  {
+    "index": 111,
+    "name": "国际政治与民族认同 · 第 5 组",
+    "file": "111-国际政治与民族认同-05-C15.md",
+    "count": 40,
+    "long": 0,
+    "short": 40,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2022-06-26",
+    "end": "2023-08-08"
+  },
+  {
+    "index": 112,
+    "name": "国际政治与民族认同 · 第 6 组",
+    "file": "112-国际政治与民族认同-06-C15.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2023-08-24",
+    "end": "2024-03-15"
+  },
+  {
+    "index": 113,
+    "name": "国际政治与民族认同 · 第 7 组",
+    "file": "113-国际政治与民族认同-07-C15.md",
+    "count": 14,
+    "long": 5,
+    "short": 9,
+    "weight": 44,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2024-03-24",
+    "end": "2024-10-01"
+  },
+  {
+    "index": 114,
+    "name": "国际政治与民族认同 · 第 8 组",
+    "file": "114-国际政治与民族认同-08-C15.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      15
+    ],
+    "start": "2017-09-08",
+    "end": "2026-03-13"
+  },
+  {
+    "index": 115,
+    "name": "命运、信仰与人生意义 · 第 1 组",
+    "file": "115-命运-信仰与人生意义-01-C4.md",
+    "count": 12,
+    "long": 5,
+    "short": 7,
+    "weight": 42,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      4
+    ],
+    "start": "2018-10-22",
+    "end": "2019-12-25"
+  },
+  {
+    "index": 116,
+    "name": "命运、信仰与人生意义 · 第 2 组",
+    "file": "116-命运-信仰与人生意义-02-C4.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      4
+    ],
+    "start": "2020-03-11",
+    "end": "2020-09-26"
+  },
+  {
+    "index": 117,
+    "name": "命运、信仰与人生意义 · 第 3 组",
+    "file": "117-命运-信仰与人生意义-03-C4.md",
+    "count": 10,
+    "long": 5,
+    "short": 5,
+    "weight": 40,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      4
+    ],
+    "start": "2020-09-27",
+    "end": "2021-04-08"
+  },
+  {
+    "index": 118,
+    "name": "命运、信仰与人生意义 · 第 4 组",
+    "file": "118-命运-信仰与人生意义-04-C4.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      4
+    ],
+    "start": "2021-04-20",
+    "end": "2023-04-16"
+  },
+  {
+    "index": 119,
+    "name": "命运、信仰与人生意义 · 第 5 组",
+    "file": "119-命运-信仰与人生意义-05-C4.md",
+    "count": 25,
+    "long": 3,
+    "short": 22,
+    "weight": 43,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      4
+    ],
+    "start": "2023-05-24",
+    "end": "2024-10-25"
+  },
+  {
+    "index": 120,
+    "name": "命运、信仰与人生意义 · 第 6 组",
+    "file": "120-命运-信仰与人生意义-06-C4.md",
+    "count": 14,
+    "long": 4,
+    "short": 10,
+    "weight": 38,
+    "start_label": "中段展开",
+    "style": "深度读",
+    "clusters": [
+      4
+    ],
+    "start": "2018-10-22",
+    "end": "2025-12-28"
+  },
+  {
+    "index": 121,
+    "name": "理性、野心与精神追求 · 第 1 组",
+    "file": "121-理性-野心与精神追求-01-C33.md",
+    "count": 25,
+    "long": 3,
+    "short": 22,
+    "weight": 43,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      33
+    ],
+    "start": "2018-09-23",
+    "end": "2021-05-20"
+  },
+  {
+    "index": 122,
+    "name": "理性、野心与精神追求 · 第 2 组",
+    "file": "122-理性-野心与精神追求-02-C33.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      33
+    ],
+    "start": "2021-05-22",
+    "end": "2022-12-30"
+  },
+  {
+    "index": 123,
+    "name": "理性、野心与精神追求 · 第 3 组",
+    "file": "123-理性-野心与精神追求-03-C33.md",
+    "count": 40,
+    "long": 0,
+    "short": 40,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      33
+    ],
+    "start": "2023-01-01",
+    "end": "2025-04-24"
+  },
+  {
+    "index": 124,
+    "name": "理性、野心与精神追求 · 第 4 组",
+    "file": "124-理性-野心与精神追求-04-C33.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      33
+    ],
+    "start": "2018-09-23",
+    "end": "2026-04-21"
+  },
+  {
+    "index": 125,
+    "name": "性别关系与两性观察 · 第 1 组",
+    "file": "125-性别关系与两性观察-01-C17.md",
+    "count": 19,
+    "long": 4,
+    "short": 15,
+    "weight": 43,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      17
+    ],
+    "start": "2018-10-13",
+    "end": "2021-08-29"
+  },
+  {
+    "index": 126,
+    "name": "性别关系与两性观察 · 第 2 组",
+    "file": "126-性别关系与两性观察-02-C17.md",
+    "count": 24,
+    "long": 3,
+    "short": 21,
+    "weight": 42,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      17
+    ],
+    "start": "2021-09-08",
+    "end": "2024-09-09"
+  },
+  {
+    "index": 127,
+    "name": "性别关系与两性观察 · 第 3 组",
+    "file": "127-性别关系与两性观察-03-C17.md",
+    "count": 22,
+    "long": 4,
+    "short": 18,
+    "weight": 46,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      17
+    ],
+    "start": "2024-10-07",
+    "end": "2025-12-22"
+  },
+  {
+    "index": 128,
+    "name": "社会结构与政治现代性 · 第 1 组",
+    "file": "128-社会结构与政治现代性-01-C1.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      1
+    ],
+    "start": "2018-11-01",
+    "end": "2020-06-09"
+  },
+  {
+    "index": 129,
+    "name": "社会结构与政治现代性 · 第 2 组",
+    "file": "129-社会结构与政治现代性-02-C1.md",
+    "count": 23,
+    "long": 3,
+    "short": 20,
+    "weight": 41,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      1
+    ],
+    "start": "2020-06-20",
+    "end": "2021-06-18"
+  },
+  {
+    "index": 130,
+    "name": "社会结构与政治现代性 · 第 3 组",
+    "file": "130-社会结构与政治现代性-03-C1.md",
+    "count": 17,
+    "long": 4,
+    "short": 13,
+    "weight": 41,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      1
+    ],
+    "start": "2021-06-30",
+    "end": "2021-10-14"
+  },
+  {
+    "index": 131,
+    "name": "社会结构与政治现代性 · 第 4 组",
+    "file": "131-社会结构与政治现代性-04-C1.md",
+    "count": 30,
+    "long": 2,
+    "short": 28,
+    "weight": 42,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      1
+    ],
+    "start": "2021-10-14",
+    "end": "2023-01-14"
+  },
+  {
+    "index": 132,
+    "name": "社会结构与政治现代性 · 第 5 组",
+    "file": "132-社会结构与政治现代性-05-C1.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      1
+    ],
+    "start": "2023-01-18",
+    "end": "2023-11-04"
+  },
+  {
+    "index": 133,
+    "name": "社会结构与政治现代性 · 第 6 组",
+    "file": "133-社会结构与政治现代性-06-C1.md",
+    "count": 30,
+    "long": 2,
+    "short": 28,
+    "weight": 42,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      1
+    ],
+    "start": "2023-11-22",
+    "end": "2025-01-06"
+  },
+  {
+    "index": 134,
+    "name": "社会结构与政治现代性 · 第 7 组",
+    "file": "134-社会结构与政治现代性-07-C1.md",
+    "count": 14,
+    "long": 4,
+    "short": 10,
+    "weight": 38,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      1
+    ],
+    "start": "2018-11-01",
+    "end": "2026-04-14"
+  },
+  {
+    "index": 135,
+    "name": "管理协作与职场带人 · 第 1 组",
+    "file": "135-管理协作与职场带人-01-C39.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      39
+    ],
+    "start": "2018-12-12",
+    "end": "2021-07-23"
+  },
+  {
+    "index": 136,
+    "name": "管理协作与职场带人 · 第 2 组",
+    "file": "136-管理协作与职场带人-02-C39.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      39
+    ],
+    "start": "2021-08-28",
+    "end": "2024-02-18"
+  },
+  {
+    "index": 137,
+    "name": "管理协作与职场带人 · 第 3 组",
+    "file": "137-管理协作与职场带人-03-C39.md",
+    "count": 27,
+    "long": 1,
+    "short": 26,
+    "weight": 33,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      39
+    ],
+    "start": "2024-02-27",
+    "end": "2026-03-25"
+  },
+  {
+    "index": 138,
+    "name": "恋爱、分手与关系去留 · 第 1 组",
+    "file": "138-恋爱-分手与关系去留-01-C22.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "后段攻坚",
+    "style": "深度读",
+    "clusters": [
+      22
+    ],
+    "start": "2019-02-18",
+    "end": "2020-12-18"
+  },
+  {
+    "index": 139,
+    "name": "恋爱、分手与关系去留 · 第 2 组",
+    "file": "139-恋爱-分手与关系去留-02-C22.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      22
+    ],
+    "start": "2021-01-28",
+    "end": "2022-06-29"
+  },
+  {
+    "index": 140,
+    "name": "恋爱、分手与关系去留 · 第 3 组",
+    "file": "140-恋爱-分手与关系去留-03-C22.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      22
+    ],
+    "start": "2022-07-01",
+    "end": "2024-03-06"
+  },
+  {
+    "index": 141,
+    "name": "恋爱、分手与关系去留 · 第 4 组",
+    "file": "141-恋爱-分手与关系去留-04-C22.md",
+    "count": 28,
+    "long": 2,
+    "short": 26,
+    "weight": 40,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      22
+    ],
+    "start": "2024-03-09",
+    "end": "2024-10-17"
+  },
+  {
+    "index": 142,
+    "name": "恋爱、分手与关系去留 · 第 5 组",
+    "file": "142-恋爱-分手与关系去留-05-C22.md",
+    "count": 24,
+    "long": 2,
+    "short": 22,
+    "weight": 36,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      22
+    ],
+    "start": "2019-02-18",
+    "end": "2026-03-31"
+  },
+  {
+    "index": 143,
+    "name": "俄乌战争与强权政治 · 第 1 组",
+    "file": "143-俄乌战争与强权政治-01-C7.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      7
+    ],
+    "start": "2019-11-12",
+    "end": "2022-03-08"
+  },
+  {
+    "index": 144,
+    "name": "俄乌战争与强权政治 · 第 2 组",
+    "file": "144-俄乌战争与强权政治-02-C7.md",
+    "count": 22,
+    "long": 3,
+    "short": 19,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      7
+    ],
+    "start": "2022-03-19",
+    "end": "2022-10-30"
+  },
+  {
+    "index": 145,
+    "name": "俄乌战争与强权政治 · 第 3 组",
+    "file": "145-俄乌战争与强权政治-03-C7.md",
+    "count": 20,
+    "long": 2,
+    "short": 18,
+    "weight": 32,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      7
+    ],
+    "start": "2019-11-12",
+    "end": "2024-11-02"
+  },
+  {
+    "index": 146,
+    "name": "产业升级与中国制造 · 第 1 组",
+    "file": "146-产业升级与中国制造-01-C36.md",
+    "count": 14,
+    "long": 5,
+    "short": 9,
+    "weight": 44,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      36
+    ],
+    "start": "2018-09-24",
+    "end": "2020-12-19"
+  },
+  {
+    "index": 147,
+    "name": "产业升级与中国制造 · 第 2 组",
+    "file": "147-产业升级与中国制造-02-C36.md",
+    "count": 13,
+    "long": 5,
+    "short": 8,
+    "weight": 43,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      36
+    ],
+    "start": "2021-01-27",
+    "end": "2021-07-24"
+  },
+  {
+    "index": 148,
+    "name": "产业升级与中国制造 · 第 3 组",
+    "file": "148-产业升级与中国制造-03-C36.md",
+    "count": 16,
+    "long": 4,
+    "short": 12,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      36
+    ],
+    "start": "2021-08-09",
+    "end": "2023-02-28"
+  },
+  {
+    "index": 149,
+    "name": "产业升级与中国制造 · 第 4 组",
+    "file": "149-产业升级与中国制造-04-C36.md",
+    "count": 34,
+    "long": 1,
+    "short": 33,
+    "weight": 40,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      36
+    ],
+    "start": "2023-03-11",
+    "end": "2025-08-03"
+  },
+  {
+    "index": 150,
+    "name": "产业升级与中国制造 · 第 5 组",
+    "file": "150-产业升级与中国制造-05-C36.md",
+    "count": 14,
+    "long": 4,
+    "short": 10,
+    "weight": 38,
+    "start_label": "讨论向",
+    "style": "争议读",
+    "clusters": [
+      36
+    ],
+    "start": "2018-09-24",
+    "end": "2026-04-18"
+  },
+  {
+    "index": 151,
+    "name": "信息筛选与值得关注 · 第 1 组",
+    "file": "151-信息筛选与值得关注-01-C13.md",
+    "count": 27,
+    "long": 3,
+    "short": 24,
+    "weight": 45,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      13
+    ],
+    "start": "2020-11-28",
+    "end": "2024-04-12"
+  },
+  {
+    "index": 152,
+    "name": "信息筛选与值得关注 · 第 2 组",
+    "file": "152-信息筛选与值得关注-02-C13.md",
+    "count": 26,
+    "long": 1,
+    "short": 25,
+    "weight": 32,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      13
+    ],
+    "start": "2020-11-28",
+    "end": "2026-03-10"
+  },
+  {
+    "index": 153,
+    "name": "公司治理与组织现场 · 第 1 组",
+    "file": "153-公司治理与组织现场-01-C20.md",
+    "count": 22,
+    "long": 4,
+    "short": 18,
+    "weight": 46,
+    "start_label": "中段展开",
+    "style": "轻松读",
+    "clusters": [
+      20
+    ],
+    "start": "2018-11-22",
+    "end": "2021-11-26"
+  },
+  {
+    "index": 154,
+    "name": "公司治理与组织现场 · 第 2 组",
+    "file": "154-公司治理与组织现场-02-C20.md",
+    "count": 30,
+    "long": 1,
+    "short": 29,
+    "weight": 36,
+    "start_label": "推荐起手",
+    "style": "轻松读",
+    "clusters": [
+      20
+    ],
+    "start": "2021-12-17",
+    "end": "2025-07-25"
+  }
+]

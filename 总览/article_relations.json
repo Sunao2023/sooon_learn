@@ -1,0 +1,803 @@
+{
+  "source": "/Users/sunao/Downloads/ps_2026-04-25_all.json",
+  "article_count": 3274,
+  "exact_duplicate_questions": [
+    {
+      "question": "发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?",
+      "articles": [
+        {
+          "index": 406,
+          "title": "混沌文笔",
+          "publishedAt": "2025-02-06T03:03:00.000Z",
+          "url": "https://www.zhihu.com/question/11067457870/answer/93743101217",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌文笔.md"
+        },
+        {
+          "index": 407,
+          "title": "混沌",
+          "publishedAt": "2025-02-05T18:40:56.546Z",
+          "url": "https://www.zhihu.com/question/11067457870/answer/93743101217",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌.md"
+        }
+      ]
+    }
+  ],
+  "top_similar_pairs": [
+    {
+      "score": 0.999,
+      "left": {
+        "index": 406,
+        "title": "混沌文笔",
+        "question": "发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?",
+        "publishedAt": "2025-02-06T03:03:00.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌文笔.md"
+      },
+      "right": {
+        "index": 407,
+        "title": "混沌",
+        "question": "发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?",
+        "publishedAt": "2025-02-05T18:40:56.546Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌.md"
+      }
+    },
+    {
+      "score": 0.962,
+      "left": {
+        "index": 2415,
+        "title": "第一毒",
+        "question": "偶像这种毒",
+        "publishedAt": "2021-07-19T01:51:13.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/07/第一毒.md"
+      },
+      "right": {
+        "index": 2417,
+        "title": "偶像这种毒",
+        "question": "如何看待都美竹再次曝光吴亦凡劣迹，称「可送你十年牢饭」，要求其退出中国娱乐圈，并致歉公示 3 天？",
+        "publishedAt": "2021-07-18T16:43:49.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/07/偶像这种毒.md"
+      }
+    },
+    {
+      "score": 0.611,
+      "left": {
+        "index": 3013,
+        "title": "赔我啥",
+        "question": "有哪些事是谈过多次恋爱才明白的?",
+        "publishedAt": "2020-05-15T05:23:31.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2020/05/赔我啥.md"
+      },
+      "right": {
+        "index": 3014,
+        "title": "不破例",
+        "question": "男友知道我的性经历后，要求补偿，该怎么办？",
+        "publishedAt": "2020-05-14T20:11:17.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2020/05/不破例.md"
+      }
+    },
+    {
+      "score": 0.571,
+      "left": {
+        "index": 225,
+        "title": "阿彪的爱",
+        "question": "如何驳斥“不爱我的国家不值得我守护”这种错误思想？",
+        "publishedAt": "2025-09-30T23:04:33.260Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/09/阿彪的爱.md"
+      },
+      "right": {
+        "index": 2051,
+        "title": "病得不轻",
+        "question": "如何看待运动员谷爱凌发布动态“谢谢中国”？",
+        "publishedAt": "2022-04-29T04:22:27.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/04/病得不轻.md"
+      }
+    },
+    {
+      "score": 0.557,
+      "left": {
+        "index": 225,
+        "title": "阿彪的爱",
+        "question": "如何驳斥“不爱我的国家不值得我守护”这种错误思想？",
+        "publishedAt": "2025-09-30T23:04:33.260Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/09/阿彪的爱.md"
+      },
+      "right": {
+        "index": 629,
+        "title": "10000-10000",
+        "question": "女朋友因我不会为她而吃醋而感到不开心，我个人觉得爱是克制对对方的占有欲，我需要改变自己吗？",
+        "publishedAt": "2024-08-21T04:05:51.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/08/10000-10000.md"
+      }
+    },
+    {
+      "score": 0.519,
+      "left": {
+        "index": 726,
+        "title": "the F grade",
+        "question": "为什么小李子莱昂纳多可以泡到那么多超模？",
+        "publishedAt": "2024-06-30T14:01:36.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/06/the F grade.md"
+      },
+      "right": {
+        "index": 1730,
+        "title": "WORKER",
+        "question": "三百万放银行吃利息，我可以不用上班吗？",
+        "publishedAt": "2022-11-27T16:51:50.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/11/WORKER.md"
+      }
+    },
+    {
+      "score": 0.481,
+      "left": {
+        "index": 2478,
+        "title": "国教",
+        "question": "深受儒家文化影响的韩国，为什么现在却成了一个基督教国家？",
+        "publishedAt": "2021-06-15T14:15:54.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/06/国教.md"
+      },
+      "right": {
+        "index": 3182,
+        "title": "基督教与食血",
+        "question": "基督教徒能不能食血？",
+        "publishedAt": "2019-03-07T18:07:27.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2019/03/基督教与食血.md"
+      }
+    },
+    {
+      "score": 0.474,
+      "left": {
+        "index": 73,
+        "title": "坚持的前提",
+        "question": "为什么我们伟大的祖国可以用40年走完西方上百年走过的“工业化”路程？",
+        "publishedAt": "2026-03-03T11:00:00.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2026/03/坚持的前提.md"
+      },
+      "right": {
+        "index": 347,
+        "title": "铁棒有何用",
+        "question": "如何评价「前三十年的工业化是一堆破铜烂铁」这种说法？",
+        "publishedAt": "2025-04-19T08:11:40.674Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/04/铁棒有何用.md"
+      }
+    },
+    {
+      "score": 0.454,
+      "left": {
+        "index": 2122,
+        "title": "俄乌战争",
+        "question": "俄乌战争预计什么时候可以打完？",
+        "publishedAt": "2022-02-27T11:37:46.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/俄乌战争.md"
+      },
+      "right": {
+        "index": 2123,
+        "title": "千层浪",
+        "question": "乌克兰局势走向对中国有什么影响?",
+        "publishedAt": "2022-02-26T17:27:43.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/千层浪.md"
+      }
+    },
+    {
+      "score": 0.447,
+      "left": {
+        "index": 2112,
+        "title": "第二终战剧本",
+        "question": "美国拟将原定给台湾的F-16战机，先送给波兰作为支援乌克兰的补偿，体现了什么态度？",
+        "publishedAt": "2022-03-08T02:02:23.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/03/第二终战剧本.md"
+      },
+      "right": {
+        "index": 2123,
+        "title": "千层浪",
+        "question": "乌克兰局势走向对中国有什么影响?",
+        "publishedAt": "2022-02-26T17:27:43.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/千层浪.md"
+      }
+    },
+    {
+      "score": 0.435,
+      "left": {
+        "index": 18,
+        "title": "知性压抑",
+        "question": "为何中国传统意义上的好高中（成绩好）的学生大都比较性压抑?",
+        "publishedAt": "2026-04-14T11:00:00.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2026/04/知性压抑.md"
+      },
+      "right": {
+        "index": 788,
+        "title": "半截人参",
+        "question": "如何看待中国性压抑？",
+        "publishedAt": "2024-05-25T06:10:36.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/05/半截人参.md"
+      }
+    },
+    {
+      "score": 0.421,
+      "left": {
+        "index": 1101,
+        "title": "负智慧",
+        "question": "《人体器官捐献和移植条例》公布，明年 5 月 1 日起施行，有哪些信息值得关注？",
+        "publishedAt": "2023-12-17T17:18:08.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2023/12/负智慧.md"
+      },
+      "right": {
+        "index": 2001,
+        "title": "常见猥琐原因",
+        "question": "经常做什么会让一个人的气质变猥琐？",
+        "publishedAt": "2022-05-27T10:31:54.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/05/常见猥琐原因.md"
+      }
+    },
+    {
+      "score": 0.417,
+      "left": {
+        "index": 629,
+        "title": "10000-10000",
+        "question": "女朋友因我不会为她而吃醋而感到不开心，我个人觉得爱是克制对对方的占有欲，我需要改变自己吗？",
+        "publishedAt": "2024-08-21T04:05:51.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/08/10000-10000.md"
+      },
+      "right": {
+        "index": 2051,
+        "title": "病得不轻",
+        "question": "如何看待运动员谷爱凌发布动态“谢谢中国”？",
+        "publishedAt": "2022-04-29T04:22:27.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/04/病得不轻.md"
+      }
+    },
+    {
+      "score": 0.415,
+      "left": {
+        "index": 1562,
+        "title": "独立思考的要害",
+        "question": "真正的独立思考是什么样子？",
+        "publishedAt": "2023-03-20T13:47:50.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2023/03/独立思考的要害.md"
+      },
+      "right": {
+        "index": 2765,
+        "title": "独立思考",
+        "question": "如何成为一个能独立思考的人？",
+        "publishedAt": "2020-12-25T22:47:21.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2020/12/独立思考.md"
+      }
+    },
+    {
+      "score": 0.407,
+      "left": {
+        "index": 426,
+        "title": "大绑架",
+        "question": "家里人以不给生活费、学费为要挟，让我过年必须回家怎么办？如果我不回是不是就是坏孩子了呢？",
+        "publishedAt": "2025-01-25T16:07:15.994Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/01/大绑架.md"
+      },
+      "right": {
+        "index": 2401,
+        "title": "道德绑架",
+        "question": "如何理解“道德绑架”？",
+        "publishedAt": "2021-07-26T11:59:22.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/07/道德绑架.md"
+      }
+    },
+    {
+      "score": 0.399,
+      "left": {
+        "index": 2112,
+        "title": "第二终战剧本",
+        "question": "美国拟将原定给台湾的F-16战机，先送给波兰作为支援乌克兰的补偿，体现了什么态度？",
+        "publishedAt": "2022-03-08T02:02:23.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/03/第二终战剧本.md"
+      },
+      "right": {
+        "index": 2122,
+        "title": "俄乌战争",
+        "question": "俄乌战争预计什么时候可以打完？",
+        "publishedAt": "2022-02-27T11:37:46.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/俄乌战争.md"
+      }
+    },
+    {
+      "score": 0.392,
+      "left": {
+        "index": 1877,
+        "title": "体制信仰",
+        "question": "大数据下的计划经济是否可行?",
+        "publishedAt": "2022-08-02T08:17:18.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/08/体制信仰.md"
+      },
+      "right": {
+        "index": 2835,
+        "title": "计划经济",
+        "question": "计划经济为什么会失败？",
+        "publishedAt": "2020-10-09T05:13:54.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2020/10/计划经济.md"
+      }
+    },
+    {
+      "score": 0.392,
+      "left": {
+        "index": 2589,
+        "title": "芯片风口",
+        "question": "芯片半导体是否为未来五年的科技风口？",
+        "publishedAt": "2021-05-01T20:27:19.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/05/芯片风口.md"
+      },
+      "right": {
+        "index": 3201,
+        "title": "芯片前景",
+        "question": "中国芯片产业前景到底怎么样？",
+        "publishedAt": "2018-12-31T11:55:27.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2018/12/芯片前景.md"
+      }
+    },
+    {
+      "score": 0.391,
+      "left": {
+        "index": 407,
+        "title": "混沌",
+        "question": "发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?",
+        "publishedAt": "2025-02-05T18:40:56.546Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌.md"
+      },
+      "right": {
+        "index": 421,
+        "title": "红旗下的蛋",
+        "question": "如何看待冯骥盛赞 DeepSeek「堪称国运级别的科技成果，希望它能让 AI 成为你生活中的水与电」？",
+        "publishedAt": "2025-01-27T03:58:47.720Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/01/红旗下的蛋.md"
+      }
+    },
+    {
+      "score": 0.387,
+      "left": {
+        "index": 2106,
+        "title": "集体主义",
+        "question": "特别反感集体主义正常吗？",
+        "publishedAt": "2022-03-17T12:06:48.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/03/集体主义.md"
+      },
+      "right": {
+        "index": 3067,
+        "title": "主义",
+        "question": "集体主义和个人主义矛盾吗？",
+        "publishedAt": "2020-02-21T13:08:23.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2020/02/主义.md"
+      }
+    },
+    {
+      "score": 0.387,
+      "left": {
+        "index": 406,
+        "title": "混沌文笔",
+        "question": "发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?",
+        "publishedAt": "2025-02-06T03:03:00.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌文笔.md"
+      },
+      "right": {
+        "index": 421,
+        "title": "红旗下的蛋",
+        "question": "如何看待冯骥盛赞 DeepSeek「堪称国运级别的科技成果，希望它能让 AI 成为你生活中的水与电」？",
+        "publishedAt": "2025-01-27T03:58:47.720Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/01/红旗下的蛋.md"
+      }
+    },
+    {
+      "score": 0.372,
+      "left": {
+        "index": 1532,
+        "title": "俄罗斯艺术之谜",
+        "question": "为什么俄国在艺术领域很有成就？",
+        "publishedAt": "2023-04-10T18:25:26.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2023/04/俄罗斯艺术之谜.md"
+      },
+      "right": {
+        "index": 2122,
+        "title": "俄乌战争",
+        "question": "俄乌战争预计什么时候可以打完？",
+        "publishedAt": "2022-02-27T11:37:46.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/俄乌战争.md"
+      }
+    },
+    {
+      "score": 0.365,
+      "left": {
+        "index": 2001,
+        "title": "常见猥琐原因",
+        "question": "经常做什么会让一个人的气质变猥琐？",
+        "publishedAt": "2022-05-27T10:31:54.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/05/常见猥琐原因.md"
+      },
+      "right": {
+        "index": 2028,
+        "title": "阴阳怪气",
+        "question": "为什么有人认为「在阴阳怪气的内容中几乎看不到『希望能更好』的赤子之心」？",
+        "publishedAt": "2022-05-14T07:26:57.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/05/阴阳怪气.md"
+      }
+    },
+    {
+      "score": 0.359,
+      "left": {
+        "index": 899,
+        "title": "东食西宿",
+        "question": "媒体称「伊斯兰国」宣称对 22 日在莫斯科发生的音乐厅袭击事件负责，这意味着什么？",
+        "publishedAt": "2024-03-24T15:00:44.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/03/东食西宿.md"
+      },
+      "right": {
+        "index": 2123,
+        "title": "千层浪",
+        "question": "乌克兰局势走向对中国有什么影响?",
+        "publishedAt": "2022-02-26T17:27:43.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/千层浪.md"
+      }
+    },
+    {
+      "score": 0.358,
+      "left": {
+        "index": 2120,
+        "title": "到底在争夺什么",
+        "question": "普京表示俄罗斯战略威慑力量转入特殊战备状态，这意味着什么？",
+        "publishedAt": "2022-02-28T03:07:48.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/到底在争夺什么.md"
+      },
+      "right": {
+        "index": 2123,
+        "title": "千层浪",
+        "question": "乌克兰局势走向对中国有什么影响?",
+        "publishedAt": "2022-02-26T17:27:43.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/千层浪.md"
+      }
+    },
+    {
+      "score": 0.352,
+      "left": {
+        "index": 539,
+        "title": "换电关键",
+        "question": "动不动就800V，大功率充电桩，有一天会压垮国家电网吗？",
+        "publishedAt": "2024-10-02T14:38:14.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/10/换电关键.md"
+      },
+      "right": {
+        "index": 2507,
+        "title": "换电",
+        "question": "新能源的三大流派：换电、充电、氢燃料，到底哪一个会是未来？",
+        "publishedAt": "2021-06-03T09:21:43.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/06/换电.md"
+      }
+    },
+    {
+      "score": 0.351,
+      "left": {
+        "index": 2057,
+        "title": "锄奸",
+        "question": "如何看待卢甘斯克人民共和国沦陷区一女子希望俄罗斯尽快获胜后，被乌克兰侵略军发现，并责令其录下道歉视频？",
+        "publishedAt": "2022-04-26T05:34:36.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/04/锄奸.md"
+      },
+      "right": {
+        "index": 2120,
+        "title": "到底在争夺什么",
+        "question": "普京表示俄罗斯战略威慑力量转入特殊战备状态，这意味着什么？",
+        "publishedAt": "2022-02-28T03:07:48.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/到底在争夺什么.md"
+      }
+    },
+    {
+      "score": 0.346,
+      "left": {
+        "index": 321,
+        "title": "无定锚",
+        "question": "小米汽车好像一夜塌房了，是行业针对还是技术真的不行？",
+        "publishedAt": "2025-05-15T07:18:04.059Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/05/无定锚.md"
+      },
+      "right": {
+        "index": 813,
+        "title": "拒绝窥探",
+        "question": "怎么拒绝自己不想回答的隐私问题？",
+        "publishedAt": "2024-05-09T08:43:37.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/05/拒绝窥探.md"
+      }
+    },
+    {
+      "score": 0.34,
+      "left": {
+        "index": 566,
+        "title": "糊涂账",
+        "question": "如何评价罗翔最新视频《从改名换姓的爱新觉罗们谈谈憎恨与是非》？",
+        "publishedAt": "2024-09-22T13:23:17.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/09/糊涂账.md"
+      },
+      "right": {
+        "index": 2393,
+        "title": "民族种族",
+        "question": "民族主义和种族主义的区别在哪里？",
+        "publishedAt": "2021-08-01T06:28:20.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/08/民族种族.md"
+      }
+    },
+    {
+      "score": 0.338,
+      "left": {
+        "index": 2560,
+        "title": "自私",
+        "question": "请问一个普通人应该多自私才合适？",
+        "publishedAt": "2021-05-09T02:37:08.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/05/自私.md"
+      },
+      "right": {
+        "index": 2604,
+        "title": "不生孩子",
+        "question": "一个女人，不想生孩子是自私的行为吗？",
+        "publishedAt": "2021-04-24T00:20:48.000Z",
+        "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/04/不生孩子.md"
+      }
+    }
+  ],
+  "components": [
+    {
+      "size": 7,
+      "articles": [
+        {
+          "title": "东食西宿",
+          "question": "媒体称「伊斯兰国」宣称对 22 日在莫斯科发生的音乐厅袭击事件负责，这意味着什么？",
+          "publishedAt": "2024-03-24T15:00:44.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/03/东食西宿.md"
+        },
+        {
+          "title": "俄罗斯艺术之谜",
+          "question": "为什么俄国在艺术领域很有成就？",
+          "publishedAt": "2023-04-10T18:25:26.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2023/04/俄罗斯艺术之谜.md"
+        },
+        {
+          "title": "锄奸",
+          "question": "如何看待卢甘斯克人民共和国沦陷区一女子希望俄罗斯尽快获胜后，被乌克兰侵略军发现，并责令其录下道歉视频？",
+          "publishedAt": "2022-04-26T05:34:36.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/04/锄奸.md"
+        },
+        {
+          "title": "第二终战剧本",
+          "question": "美国拟将原定给台湾的F-16战机，先送给波兰作为支援乌克兰的补偿，体现了什么态度？",
+          "publishedAt": "2022-03-08T02:02:23.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/03/第二终战剧本.md"
+        },
+        {
+          "title": "到底在争夺什么",
+          "question": "普京表示俄罗斯战略威慑力量转入特殊战备状态，这意味着什么？",
+          "publishedAt": "2022-02-28T03:07:48.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/到底在争夺什么.md"
+        },
+        {
+          "title": "俄乌战争",
+          "question": "俄乌战争预计什么时候可以打完？",
+          "publishedAt": "2022-02-27T11:37:46.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/俄乌战争.md"
+        },
+        {
+          "title": "千层浪",
+          "question": "乌克兰局势走向对中国有什么影响?",
+          "publishedAt": "2022-02-26T17:27:43.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/02/千层浪.md"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "articles": [
+        {
+          "title": "一牛三旱",
+          "question": "怎样区分“爱自己”和“自私”？",
+          "publishedAt": "2026-01-09T23:00:00.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2026/01/一牛三旱.md"
+        },
+        {
+          "title": "自私",
+          "question": "请问一个普通人应该多自私才合适？",
+          "publishedAt": "2021-05-09T02:37:08.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/05/自私.md"
+        },
+        {
+          "title": "不生孩子",
+          "question": "一个女人，不想生孩子是自私的行为吗？",
+          "publishedAt": "2021-04-24T00:20:48.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/04/不生孩子.md"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "articles": [
+        {
+          "title": "阿彪的爱",
+          "question": "如何驳斥“不爱我的国家不值得我守护”这种错误思想？",
+          "publishedAt": "2025-09-30T23:04:33.260Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/09/阿彪的爱.md"
+        },
+        {
+          "title": "10000-10000",
+          "question": "女朋友因我不会为她而吃醋而感到不开心，我个人觉得爱是克制对对方的占有欲，我需要改变自己吗？",
+          "publishedAt": "2024-08-21T04:05:51.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2024/08/10000-10000.md"
+        },
+        {
+          "title": "病得不轻",
+          "question": "如何看待运动员谷爱凌发布动态“谢谢中国”？",
+          "publishedAt": "2022-04-29T04:22:27.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/04/病得不轻.md"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "articles": [
+        {
+          "title": "混沌文笔",
+          "question": "发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?",
+          "publishedAt": "2025-02-06T03:03:00.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌文笔.md"
+        },
+        {
+          "title": "混沌",
+          "question": "发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?",
+          "publishedAt": "2025-02-05T18:40:56.546Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/02/混沌.md"
+        },
+        {
+          "title": "红旗下的蛋",
+          "question": "如何看待冯骥盛赞 DeepSeek「堪称国运级别的科技成果，希望它能让 AI 成为你生活中的水与电」？",
+          "publishedAt": "2025-01-27T03:58:47.720Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2025/01/红旗下的蛋.md"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "articles": [
+        {
+          "title": "负智慧",
+          "question": "《人体器官捐献和移植条例》公布，明年 5 月 1 日起施行，有哪些信息值得关注？",
+          "publishedAt": "2023-12-17T17:18:08.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2023/12/负智慧.md"
+        },
+        {
+          "title": "常见猥琐原因",
+          "question": "经常做什么会让一个人的气质变猥琐？",
+          "publishedAt": "2022-05-27T10:31:54.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/05/常见猥琐原因.md"
+        },
+        {
+          "title": "阴阳怪气",
+          "question": "为什么有人认为「在阴阳怪气的内容中几乎看不到『希望能更好』的赤子之心」？",
+          "publishedAt": "2022-05-14T07:26:57.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2022/05/阴阳怪气.md"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "articles": [
+        {
+          "title": "独立思考的要害",
+          "question": "真正的独立思考是什么样子？",
+          "publishedAt": "2023-03-20T13:47:50.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2023/03/独立思考的要害.md"
+        },
+        {
+          "title": "谁说了算",
+          "question": "如何评价网易 CEO 丁磊称「大多数中国学生不具备独立思考能力」？实际情况如何？",
+          "publishedAt": "2021-06-22T22:45:03.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2021/06/谁说了算.md"
+        },
+        {
+          "title": "独立思考",
+          "question": "如何成为一个能独立思考的人？",
+          "publishedAt": "2020-12-25T22:47:21.000Z",
+          "path": "/Users/sunao/Work/Obsidian/soon/文章/2020/12/独立思考.md"
+        }
+      ]
+    }
+  ],
+  "theme_counts": {
+    "自我与情绪": 435,
+    "关系与婚恋": 883,
+    "工作与成长": 913,
+    "社会观察": 781,
+    "政治与国际": 744,
+    "艺术与创作": 212,
+    "科技与AI": 119,
+    "道德与价值": 477
+  },
+  "theme_trends_by_year": {
+    "2018": {
+      "政治与国际": 15,
+      "科技与AI": 3,
+      "工作与成长": 12,
+      "艺术与创作": 9,
+      "关系与婚恋": 12,
+      "社会观察": 11,
+      "道德与价值": 7,
+      "自我与情绪": 9
+    },
+    "2019": {
+      "社会观察": 21,
+      "政治与国际": 22,
+      "关系与婚恋": 21,
+      "工作与成长": 38,
+      "科技与AI": 3,
+      "道德与价值": 14,
+      "自我与情绪": 11,
+      "艺术与创作": 8
+    },
+    "2020": {
+      "关系与婚恋": 70,
+      "社会观察": 58,
+      "政治与国际": 90,
+      "工作与成长": 79,
+      "自我与情绪": 27,
+      "道德与价值": 49,
+      "科技与AI": 10,
+      "艺术与创作": 12
+    },
+    "2021": {
+      "自我与情绪": 84,
+      "工作与成长": 160,
+      "社会观察": 138,
+      "艺术与创作": 42,
+      "科技与AI": 24,
+      "政治与国际": 135,
+      "道德与价值": 107,
+      "关系与婚恋": 164
+    },
+    "2022": {
+      "关系与婚恋": 104,
+      "道德与价值": 64,
+      "政治与国际": 133,
+      "艺术与创作": 29,
+      "工作与成长": 136,
+      "社会观察": 96,
+      "自我与情绪": 53,
+      "科技与AI": 13
+    },
+    "2023": {
+      "关系与婚恋": 143,
+      "社会观察": 139,
+      "工作与成长": 165,
+      "道德与价值": 101,
+      "政治与国际": 152,
+      "自我与情绪": 72,
+      "艺术与创作": 33,
+      "科技与AI": 29
+    },
+    "2024": {
+      "关系与婚恋": 199,
+      "社会观察": 187,
+      "政治与国际": 138,
+      "道德与价值": 78,
+      "自我与情绪": 92,
+      "艺术与创作": 52,
+      "工作与成长": 173,
+      "科技与AI": 20
+    },
+    "2025": {
+      "关系与婚恋": 98,
+      "工作与成长": 93,
+      "政治与国际": 48,
+      "社会观察": 90,
+      "道德与价值": 43,
+      "自我与情绪": 44,
+      "艺术与创作": 16,
+      "科技与AI": 9
+    },
+    "2026": {
+      "关系与婚恋": 72,
+      "工作与成长": 57,
+      "道德与价值": 14,
+      "自我与情绪": 43,
+      "艺术与创作": 11,
+      "科技与AI": 8,
+      "社会观察": 41,
+      "政治与国际": 11
+    }
+  }
+}
